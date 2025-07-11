@@ -1,0 +1,8 @@
+package api.payload;
+
+// POJO Class - Plain Old Java Object
+
+public class User {
+	int id;
+	int 
+}

@@ -1,0 +1,13 @@
+package api.endpoint;
+
+/*
+ * Swagger URL - https://petstore.swagger.io/#/
+ * 
+ * GET -
+ * POST -
+ * DELETE - 
+ */
+
+public class Routes {
+	
+}

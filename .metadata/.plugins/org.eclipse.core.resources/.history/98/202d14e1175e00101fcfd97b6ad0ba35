@@ -1,0 +1,15 @@
+package api.test;
+
+import org.testng.annotations.BeforeClass;
+
+import com.github.javafaker.Faker;
+
+public class UserTests {
+	
+	Faker faker;
+	
+	@BeforeClass
+	public void setup() {
+		faker = new faker();
+	}
+}

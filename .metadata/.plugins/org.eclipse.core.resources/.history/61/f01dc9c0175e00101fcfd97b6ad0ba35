@@ -1,0 +1,9 @@
+package api.test;
+
+public class UserTests {
+	
+	@BeforeClass
+	public void setup() {
+		
+	}
+}

@@ -1,0 +1,13 @@
+package api.test;
+
+import org.testng.annotations.BeforeClass;
+
+public class UserTests {
+	
+	Faker faker;
+	
+	@BeforeClass
+	public void setup() {
+		
+	}
+}

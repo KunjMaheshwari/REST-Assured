@@ -1,0 +1,9 @@
+package api.endpoint;
+
+// Created for performing the CRUD Operation.
+
+public class UserEndPoints {
+	
+	
+	
+}
